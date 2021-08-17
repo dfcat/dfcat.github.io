@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/raid", {data:[{}],fetch:{},mutations:void 0});
